@@ -1,5 +1,5 @@
 # Write your solution here
-ruby
+
 # ./lib/your_solution.rb
 puts "Hello World!"
 
